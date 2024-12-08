@@ -1,7 +1,7 @@
 ''' 
 CNN_Based_Sound_Classification_for_Multi_Class_Recognition_ResNet18
 
-Author: Ojasva Goyal
+Author: Bhuman Pandita
 Description:
 This script implements a ResNet-18 Convolutional Neural Network (CNN) for the classification 
 of sound files into multiple categories using Mel spectrograms as input features. 
